@@ -301,4 +301,4 @@ Key Points -
     Train: Loss=0.0453 Batch_id=599 Accuracy=97.91: 100%|██████████| 600/600 [01:17<00:00,  7.73it/s]
     Test set: Average loss: 0.0002, Accuracy: 9942/10000 (99.42%)
 
-    ![waveform](images/results.png)
+![waveform](images/results.png)
